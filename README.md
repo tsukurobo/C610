@@ -7,12 +7,12 @@
 ## リポジトリの構成
 このディレクトリの構成は以下の通り。  
 - *基板名(example)*
-  - [sample1.c](C610/基板名(example)/sample1.c)
-  - [sample2.py](C610/基板名(example)/sample2.py)
+  - sample1.c
+  - sample2.py
 
 - *Robomas_C610*
-  - [Robomas_C610_test.ino](C610/Robomas_C610/Robomas_C610_test.ino)
+  - [Robomas_C610_test.ino](Robomas_C610/Robomas_C610_test.ino)
 
 ## Robomas_C610
-#### [Robomas_C610_test.ino](C610/Robomas_C610/Robomas_C610_test.ino)
+#### [Robomas_C610_test.ino](Robomas_C610/Robomas_C610_test.ino)
 M2006を回すためのサンプルコードです。
